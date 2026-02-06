@@ -1,5 +1,5 @@
-
-%Nome: Luís Henrique Gonçalves de Oliveira - Nº12121BCC022
+%Lista 2:
+%Nome: Luís Henrique Gonçalves de Oliveira 
 
 /*
     1 - Defina uma função recursiva para calcular o máximo divisor comum de dois
@@ -135,3 +135,4 @@ inserir_ordenado(X, [H | T], [X, H | T]) :-
 inserir_ordenado(X, [H | T], [H | Lf]) :-
     X > H,
     inserir_ordenado(X, T, Lf).
+
