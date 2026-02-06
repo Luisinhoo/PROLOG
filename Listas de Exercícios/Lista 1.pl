@@ -1,4 +1,4 @@
-%Lista 1 de PROLOG
+%Lista 1:
 %Nome: Luís Henrique Gonçalves de Oliveira
 
 /*
