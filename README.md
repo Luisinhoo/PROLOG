@@ -1,2 +1,2 @@
-# PROLOG
-Atividades dos Laboratórios da Matéria de Programação Lógica
+#PROLOG
+Atividades da Matéria de Programação Lógica
